@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>../Images/1.jpg</file>
+        <file>../Images/2.jpg</file>
+        <file>../Images/3.jpg</file>
+        <file>../Images/authentificationPhoto.jpg</file>
+        <file>../Images/cancel.png</file>
+        <file>../Images/clear.png</file>
+        <file>../Images/dash.png</file>
+        <file>../Images/delete.png</file>
+        <file>../Images/exporth.png</file>
+        <file>../Images/images.jpg</file>
+        <file>../Images/impr.png</file>
+        <file>../Images/rejete.png</file>
+        <file>../Images/search.png</file>
+        <file>../Images/send.png</file>
+        <file>../Images/solde.png</file>
+        <file>../Images/submit.png</file>
+        <file>../Images/update.png</file>
+        <file>../Images/valide.png</file>
+    </qresource>
+</RCC>
